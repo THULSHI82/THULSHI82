@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Hey!! welcome to my Profile.png" alt="Manaw Candappa" width="100%" />
+  <img src="./.png" alt="Manaw Candappa" width="100%" />
 </p>
 
 <h2 align="center">Aspiring Full-Stack & Mobile Developer | Crafting Web & Cross-Platform Apps</h2>
